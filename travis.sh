@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Reset Modules and Themes to their original state after composer has run
+# Reset Modules and Themes to their original state after composer has rune
 
 rm -rf Modules Themes
 git reset HEAD Modules > /dev/null 2>&1
