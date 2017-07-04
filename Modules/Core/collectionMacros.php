@@ -1,6 +1,6 @@
 <?php
 
-use Illuminate\Support\Collection;;;
+use Illuminate\Support\Collection;;;;
 
 if (Collection::hasMacro('toAssoc') === false) {
     // Source: https://adamwathan.me/2016/07/14/customizing-keys-when-mapping-collections/
